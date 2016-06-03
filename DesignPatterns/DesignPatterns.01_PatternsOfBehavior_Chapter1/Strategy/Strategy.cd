@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DesignPatterns._01_PatternsOfBehavior_Chapter1.Strategy.LogProcessor" Collapsed="true">
+    <Position X="1" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Strategy\LogProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPatterns._01_PatternsOfBehavior_Chapter1.Strategy.LogProcessor1" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAACAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Strategy\LogProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPatterns._01_PatternsOfBehavior_Chapter1.Strategy.WindowsEventLogReader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Strategy\WindowsEventLogReader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DesignPatterns._01_PatternsOfBehavior_Chapter1.Strategy.LogFileReader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Strategy\LogFileReader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DesignPatterns._01_PatternsOfBehavior_Chapter1.Strategy.LogEntry" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAIAQAAAA=</HashCode>
+      <FileName>Strategy\LogEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DesignPatterns._01_PatternsOfBehavior_Chapter1.Strategy.ILogReader" Collapsed="true">
+    <Position X="3.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Strategy\ILogReader.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
